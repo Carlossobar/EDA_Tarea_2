@@ -1,0 +1,9 @@
+San_Antonio 5
+Concepcion 5 90.0
+Puerto_Montt 4 30.0
+San_Fernando 3 97.5
+Angol 3 73.6
+Talca 3 49.3
+Rancagua 3
+Punta_Arenas 2 79.0
+Linares 1 84.3
